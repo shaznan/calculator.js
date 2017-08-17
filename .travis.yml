@@ -1,0 +1,5 @@
+deploy: 
+  provider: npm
+  api_key: "…f86e81b1"
+  on:
+    - tags: true
