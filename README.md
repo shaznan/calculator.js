@@ -11,7 +11,8 @@ Click [HERE](https://calculator.akepinski.me) to see live demo.
 - Simple to use
 - 100 % free
 - Easy to install
-- Designed with Beautiful Google Material Design
+- Designed with Beautiful Google Material Designbuttons
+- Responsive 
 
 ## Installation
 
