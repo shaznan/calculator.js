@@ -4,7 +4,7 @@ Simple Web Calculator Designed with Material Design :-)
 
 ## Demo
 
-Click [HERE](https://akepinski-calc.netlify.com/) to see live demo.
+Click [HERE](https://calculator.akepinski.me) to see live demo.
 
 ## Features
 
