@@ -19,6 +19,10 @@ Click [HERE](https://calculator.akepinski.me) to see live demo.
 ```sh
 npm i material_calculator
 ```
+
+```sh
+bower install material_calculator
+```
 You can also download this repository or click buttons below:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/calculator.js)
