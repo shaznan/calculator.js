@@ -220,6 +220,7 @@ a, .btn {
 .hvr-radial-out:before {
   background: #FFF !important;
   border-radius: 100%;
+  border: none;
   transition-duration: 0.5s;
 }
 
