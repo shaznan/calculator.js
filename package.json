@@ -6,12 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/xxczaki/calculator.js.git"
-  },
+  "repository": "https://github.com/xxczaki/calculator.js.git",
   "keywords": [],
-  "author": "Antoni Kepinski <hello@akepinski.me>",
+  "author": "Antoni Kepinski <hello@akepinski.me",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xxczaki/calculator.js/issues"
