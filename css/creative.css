@@ -34,6 +34,7 @@ a, .btn {
 .displayBox {
   background: #455A64;
   padding: 0;
+  border: none;
   min-height: 220px;
   overflow: hidden;
 }
@@ -59,6 +60,7 @@ a, .btn {
   padding-left: -20px;
   padding-top: 10px;
   border-left: 1px solid #E5E5E5;
+  border: none;
 }
 
 .numberPad {
@@ -73,6 +75,7 @@ a, .btn {
   height: 75px;
   font-weight: 100;
   border-radius: 100px;
+  border: none;
   outline: none;
   box-shadow: 0px 0px 0px transparent;
   border: none;
@@ -81,6 +84,7 @@ a, .btn {
 .btn-calc:hover {
   background: #FFF;
   color: #455A64;
+  border: none;
 }
 
 .btn-operation {
@@ -144,7 +148,7 @@ a, .btn {
   height: 40px;
   border-radius: 40px;
   background: transparent;
-  border: 2px solid #FFF;
+  border: none;                                        /* border: 2px solid #FFF; */
   padding-top: 6px;
   color: #FFF;
   font-family: sans-serif;
