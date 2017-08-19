@@ -1,13 +1,15 @@
 $(document).ready(function() {
   var displayBox = document.getElementById("display");
+  var hasEvaluated = false;
 
   //CHECK IF 0 IS PRESENT. IF IT IS, OVERRIDE IT, ELSE APPEND VALUE TO DISPLAY
   function clickNumbers(val) {
-    if (displayBox.innerHTML === "0") {
+    if (displayBox.innerHTML === "0" || (hasEvaluated == true && !isNaN(displayBox.innerHTML))) {
       displayBox.innerHTML = val;
     } else {
       displayBox.innerHTML += val;
     }
+    hasEvaluated = false;
   }
 
   //PLUS MINUS
@@ -108,7 +110,10 @@ $(document).ready(function() {
     num = Math.sqrt(num);
     displayBox.innerHTML = Number(num.toFixed(5));
   });
-  $('#equals').click(evaluate);
+  $('#equals').click(function() {
+  	evaluate();
+  	hasEvaluated = true;
+  });
 
   //EVAL FUNCTION
   function evaluate() {
