@@ -6,6 +6,8 @@ Simple Web Calculator Designed with Material Design :-)
 
 Click [HERE](https://calculator.akepinski.me) to see live demo.
 
+*Check out [Alessio Delmonti's](https://github.com/Alexintosh) [Electron Calculator](https://github.com/Alexintosh/Electron-Calculator)*
+
 ## Features
 
 - Simple to use
