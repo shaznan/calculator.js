@@ -4,6 +4,8 @@ Simple Web Calculator Designed with Material Design :-)
 
 ## Demo
 
+[Demo](https://raw.githubusercontent.com/xxczaki/calculator.js/master/demo.png)](https://calculator.akepinski.me)
+
 Click [HERE](https://calculator.akepinski.me) to see live demo.
 
 *Also check out [Alessio Delmonti's](https://github.com/Alexintosh) [Electron Calculator](https://github.com/Alexintosh/Electron-Calculator)*
