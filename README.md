@@ -4,7 +4,7 @@ Simple Web Calculator Designed with Material Design :-)
 
 ## Demo
 
-![Demo](https://raw.githubusercontent.com/xxczaki/calculator.js/master/demo.png)
+![Demo](https://raw.githubusercontent.com/xxczaki/calculator.js/master/demo-view.png)
 
 Click [HERE](https://calculator.akepinski.me) to see live demo.
 
