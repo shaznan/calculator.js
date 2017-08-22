@@ -1,4 +1,4 @@
-# material_calculator [![npm version](https://badge.fury.io/js/material_calculator.svg)](https://www.npmjs.com/package/material_calculator) [![Bower version](https://badge.fury.io/bo/material_calculator.svg)](https://badge.fury.io/bo/material_calculator) [![Join Slack](https://img.shields.io/badge/Slack-JOIN-%23E01563.svg)](http://joinslaack.herokuapp.com/)
+# material_calculator [![npm version](https://badge.fury.io/js/material_calculator.svg)](https://www.npmjs.com/package/material_calculator) [![Bower version](https://badge.fury.io/bo/material_calculator.svg)](https://badge.fury.io/bo/material_calculator) [![Join Discord](https://img.shields.io/badge/chat-discord-7289DA.svg)](https://discord.gg/5vkWGvY)
 
 Simple Web Calculator Designed with Material Design :-)
 
