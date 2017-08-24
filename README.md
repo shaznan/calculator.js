@@ -45,13 +45,11 @@ Run index.html to see it in action!
 * JQuery 2.1.4
 * Google Fonts
 
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
-
 ## My other Projects
 
 - [akepinski.me](https://github.com/xxczaki/akepinski.me): Simple "About Me" Static Website Theme.
 - [Logger](https://github.com/xxczaki/logger): Secure & Simple Windows Keylogger written in C#.
 
+## License
 
+[MIT](https://opensource.org/licenses/MIT)
