@@ -157,6 +157,13 @@ a, .btn {
   color: #FFF;
 }
 
+:focus {
+  outline: none !important;
+} 
+
+::-moz-focus-inner {
+  border: 0 !important;
+}
 
 /* MEDIA QUERIES */
 
@@ -227,3 +234,5 @@ a, .btn {
   background: #FFF !important;
   transition-duration: 0.5s;
 }
+
+
