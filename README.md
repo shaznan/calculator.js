@@ -17,14 +17,18 @@ Click [HERE](https://calculator.akepinski.me) to see live demo.
 - Easy to install
 - Designed with Beautiful Google Material Design
 
-## Installation
+## Install
 
-```sh
-npm i material_calculator
+### :bird: Bower<br>![](https://img.shields.io/bower/v/emojilib.svg?style=flat-square)
+
+```
+bower install material_calculator
 ```
 
-```sh
-bower install material_calculator
+### :package: NPM<br>![](https://img.shields.io/npm/v/emojilib.svg?style=flat-square)
+
+```
+npm i material_calculator
 ```
 You can also download this repository or click buttons below:
 
