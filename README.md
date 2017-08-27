@@ -19,13 +19,13 @@ Click [HERE](https://calculator.akepinski.me) to see live demo.
 
 ## Install
 
-### :bird: Bower<br>![](https://img.shields.io/bower/v/emojilib.svg?style=flat-square)
+### :bird: Bower<br>![](https://badge.fury.io/bo/material_calculator.svg)
 
 ```
 bower install material_calculator
 ```
 
-### :package: NPM<br>![](https://img.shields.io/npm/v/emojilib.svg?style=flat-square)
+### :package: NPM<br>![](https://badge.fury.io/js/material_calculator.svg)
 
 ```
 npm i material_calculator
