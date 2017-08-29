@@ -57,3 +57,5 @@ Run index.html to see it in action!
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+Also: Thank you to all contributors for their help ;-)
