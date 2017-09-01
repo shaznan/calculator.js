@@ -8,12 +8,10 @@
   },
   "repository": "https://github.com/xxczaki/calculator.js.git",
   "keywords": [
-    "material design",
+    "MaterialDesign",
     "calculator",
     "material",
-    "web calculator",
-    "calculator js",
-    "google material design",
+    "material_calculator"
   ],
   "author": "Antoni Kepinski <hello@akepinski.me",
   "license": "MIT",
