@@ -4,11 +4,9 @@ Simple Web Calculator Designed with Material Design :-)
 
 ## Demo
 
-*Note: Site currently doesn't work.*
-
 ![Demo](https://raw.githubusercontent.com/xxczaki/calculator.js/master/demo-view.png)
 
-Click [HERE](https://calculator.akepinski.me) to see live demo.
+Click [HERE](https://material-calculator.netlify.com/) to see live demo.
 
 *Also check out [Alessio Delmonti's](https://github.com/Alexintosh) [Electron Calculator](https://github.com/Alexintosh/Electron-Calculator)*
 
