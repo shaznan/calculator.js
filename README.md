@@ -60,3 +60,6 @@ Run index.html to see it in action!
 [MIT](https://opensource.org/licenses/MIT)
 
 Also: Thank you to all contributors for their help ;-)
+
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
