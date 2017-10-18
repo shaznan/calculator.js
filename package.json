@@ -1,22 +1,38 @@
 {
-  "name": "material_calculator",
-  "description": "Simple Web Calculator made with Google Material Design",
-  "version": "1.2.8",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "https://github.com/xxczaki/calculator.js.git",
-  "keywords": [
-    "MaterialDesign",
-    "calculator",
-    "material",
-    "material_calculator"
-  ],
-  "author": "Antoni Kepinski <hello@akepinski.me",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/xxczaki/calculator.js/issues"
-  },
-  "homepage": "https://github.com/xxczaki/calculator.js"
+	"name": "material_calculator",
+	"version": "1.2.9",
+	"description": "Simple Web Calculator made with Google Material Design",
+	"author": {
+		"name": "Anthony Kepinski",
+		"email": "hello@akepinski.me",
+		"url": "https://akepinski.me"
+	},
+	"license": "MIT",
+	"repository": "https://github.com/xxczaki/calculator.js.git",
+	"bugs": {
+		"url": "https://github.com/xxczaki/calculator.js/issues"
+	},
+	"homepage": "https://github.com/xxczaki/calculator.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "standard"
+	},
+	"keywords": [
+		"cashh",
+		"currency",
+		"exchange",
+		"rates",
+		"convert",
+		"cash"
+	],
+	"devDependencies": {
+		"standard": "^8.6.0"
+	},
+	"standard": {
+		"globals": [
+			"$",
+			"eval",
+			"function trimIfNecessary"
+		]
+	}
 }
