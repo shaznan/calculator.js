@@ -61,5 +61,9 @@ Run index.html to see it in action!
 
 Also: Thank you to all contributors for their help ;-) 
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/HJN4mbVLpyMdTA1vPHHsRKTN/xxczaki/calculator.js'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/HJN4mbVLpyMdTA1vPHHsRKTN/xxczaki/calculator.js.svg' />
+</a>
+
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
