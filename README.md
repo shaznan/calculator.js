@@ -21,6 +21,7 @@ Click [HERE](https://material-calculator.netlify.com/) to see live demo.
 - Easy to install
 - Clean Code
 - Designed with Beautiful Google Material Design
+- Well Commented
 
 ## Install
 
