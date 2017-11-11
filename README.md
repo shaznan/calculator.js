@@ -68,5 +68,4 @@ Also: Thank you to all contributors for their help ;-)
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
-### Vulnerabilities:
-[![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/calculator.js/badge.svg)](https://snyk.io/test/github/xxczaki/calculator.js)
+### Vulnerabilities: [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/calculator.js/badge.svg)](https://snyk.io/test/github/xxczaki/calculator.js)
