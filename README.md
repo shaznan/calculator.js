@@ -2,7 +2,7 @@
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/HJN4mbVLpyMdTA1vPHHsRKTN/xxczaki/calculator.js.svg' />
 </a>
 
-# material_calculator [![npm version](https://badge.fury.io/js/material_calculator.svg)](https://www.npmjs.com/package/material_calculator) [![Bower version](https://badge.fury.io/bo/material_calculator.svg)](https://badge.fury.io/bo/material_calculator) [![Build Status](https://travis-ci.org/xxczaki/calculator.js.svg?branch=master)](https://travis-ci.org/xxczaki/calculator.js) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![npm](https://img.shields.io/npm/dt/express.svg)]()
+# material_calculator [![npm version](https://badge.fury.io/js/material_calculator.svg)](https://www.npmjs.com/package/material_calculator) [![Bower version](https://badge.fury.io/bo/material_calculator.svg)](https://badge.fury.io/bo/material_calculator) [![Build Status](https://travis-ci.org/xxczaki/calculator.js.svg?branch=master)](https://travis-ci.org/xxczaki/calculator.js) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Simple Web Calculator Designed with Material Design :-)
 
