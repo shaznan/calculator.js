@@ -129,7 +129,7 @@ $(document).ready(function () {
       $('#display').css('margin-top', '124px')
       $('button').prop('disabled', false)
       $('.clear').attr('disabled', false)
-      displayBox.innerHTML = 'Undefined'
+      displayBox.innerHTML = 'Infinity'  // [ANY NUMBER] / 0
     }
     var evaluate = eval(displayBox.innerHTML)
     if (evaluate.toString().indexOf('.') !== -1) {
