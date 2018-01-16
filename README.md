@@ -32,7 +32,7 @@ bower install material_calculator
 ```
 npm i material_calculator
 ```
-You can also download this repository or click buttons below:
+You can also clone this repository or click buttons below:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/calculator.js)
 
@@ -63,5 +63,3 @@ Run index.html to see it in action!
 Also: Thank you to all contributors for their help ;-) 
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-### Vulnerabilities: [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/calculator.js/badge.svg)](https://snyk.io/test/github/xxczaki/calculator.js)
