@@ -18,15 +18,15 @@
 		"test": "standard"
 	},
 	"keywords": [
-		"cashh",
-		"currency",
-		"exchange",
-		"rates",
-		"convert",
-		"cash"
+		"calculator.js",
+		"material-design",
+		"calculator",
+		"material",
+		"beautiful",
+		"math"
 	],
 	"devDependencies": {
-		"standard": "^8.6.0"
+		"standard": "^10.0.3"
 	},
 	"standard": {
 		"globals": [
