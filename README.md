@@ -12,9 +12,8 @@ Click [HERE](https://material-calculator.netlify.com/) to see live demo.
 
 ## Features
 
-- Simple to use
-- 100 % free
-- Easy to install
+- Simple usage
+- Easy installation
 - Clean Code
 - Designed with Beautiful Google Material Design
 - Well Commented
@@ -37,6 +36,8 @@ You can also clone this repository or click buttons below:
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/calculator.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/xxczaki/calculator.js)
 
 ## Usage
 
