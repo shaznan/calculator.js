@@ -15,7 +15,7 @@
 	"homepage": "https://github.com/xxczaki/calculator.js",
 	"main": "index.js",
 	"scripts": {
-		"test": "standard"
+		"test": "standard --fix"
 	},
 	"keywords": [
 		"calculator.js",
