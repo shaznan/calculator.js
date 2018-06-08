@@ -6,8 +6,6 @@ Simple Web Calculator Designed with Material Design :-)
 
 ![Demo](https://raw.githubusercontent.com/xxczaki/calculator.js/master/demo-view.png)
 
-**Demo currently not available**
-
 Click [HERE](https://akepinski.me/calculator/) to see live demo.
 
 *Also check out [Alessio Delmonti's](https://github.com/Alexintosh) [Electron Calculator](https://github.com/Alexintosh/Electron-Calculator)!*
@@ -41,27 +39,18 @@ You can also clone this repository or click buttons below:
 
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/xxczaki/calculator.js)
 
-<a href="https://www.patreon.com/akepinski">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
 ## Usage
 
 Run index.html to see it in action!
-
-## Stack
-
-* HTML 5
-* CSS 3
-* JAVASCRIPT 5
-* Bootstrap 3
-* JQuery 2.1.4
-* Google Fonts
 
 ## My other Projects
 
 - [akepinski.me](https://github.com/xxczaki/akepinski.me): Simple "About Me" Static Website Theme.
 - [Logger](https://github.com/xxczaki/logger): Secure & Simple Windows Keylogger written in C#.
+
+<a href="https://www.patreon.com/akepinski">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 ## License
 
